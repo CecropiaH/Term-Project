@@ -1,0 +1,12 @@
+Term Project
+
+Deliverable One
+    -allow users to  create accounts and log in
+        -instructor
+        -admin
+        -gym member
+    -welcome screen
+    -admin can
+        -add, edit, and delete classes
+            -class contains: name + description
+        -delete other accounts
